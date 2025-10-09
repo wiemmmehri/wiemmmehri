@@ -35,8 +35,8 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=wiemmmehri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_bust=1)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wiemmmehri&theme=dark&hide_border=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=wiemmmehri&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=wiemmmehri&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wiemmmehri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
