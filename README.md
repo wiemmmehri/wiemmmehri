@@ -87,17 +87,7 @@
 
 </div>
 
-<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=wiemmmehri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wiemmmehri&theme=dark&hide_border=true&layout=compact&langs_count=8)
-
-</div>
 
 ---
 
