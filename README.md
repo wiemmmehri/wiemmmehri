@@ -13,8 +13,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/wiem-mehri-b1abba19b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:mehriwiem@gmail.com"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
-<a href="https://my-portfolio-bice-gamma-67.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vercel.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="mailto:mehriwiem@gmail.com"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="email" height="35" width="35" /></a>
+<a href="https://my-portfolio-bice-gamma-67.vercel.app/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/domain.png" alt="portfolio" height="35" width="35" /></a>
 </p>
 
 ---
